@@ -54,6 +54,7 @@ skills/
     SKILL.md
 
 docs/
+  EXAMPLES.md
   PUBLISHING_PLAN.md
   REPOSITORY_MAP.md
   ROADMAP.md
@@ -79,6 +80,7 @@ Each published skill should meet all of the following:
 ## Start Here
 
 - Browse the skill index: [docs/SKILL_INDEX.md](./docs/SKILL_INDEX.md)
+- See example use cases: [docs/EXAMPLES.md](./docs/EXAMPLES.md)
 - See the roadmap: [docs/ROADMAP.md](./docs/ROADMAP.md)
 - Read the repository map: [docs/REPOSITORY_MAP.md](./docs/REPOSITORY_MAP.md)
 - Read contribution rules: [CONTRIBUTING.md](./CONTRIBUTING.md)
