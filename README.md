@@ -57,6 +57,7 @@ docs/
   BATCH_01.md
   EXAMPLES.md
   PUBLISHING_PLAN.md
+  RELEASE_CHECKLIST.md
   REPOSITORY_MAP.md
   ROADMAP.md
   SECURITY_BOUNDARY.md
@@ -85,6 +86,7 @@ Each published skill should meet all of the following:
 - See the first public batch: [docs/BATCH_01.md](./docs/BATCH_01.md)
 - See example use cases: [docs/EXAMPLES.md](./docs/EXAMPLES.md)
 - See the roadmap: [docs/ROADMAP.md](./docs/ROADMAP.md)
+- Use the release checklist: [docs/RELEASE_CHECKLIST.md](./docs/RELEASE_CHECKLIST.md)
 - Review the security boundary: [docs/SECURITY_BOUNDARY.md](./docs/SECURITY_BOUNDARY.md)
 - Read the repository map: [docs/REPOSITORY_MAP.md](./docs/REPOSITORY_MAP.md)
 - Read contribution rules: [CONTRIBUTING.md](./CONTRIBUTING.md)
