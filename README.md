@@ -56,6 +56,7 @@ skills/
 docs/
   PUBLISHING_PLAN.md
   REPOSITORY_MAP.md
+  SKILL_INDEX.md
 
 README.md
 CONTRIBUTING.md
@@ -76,10 +77,18 @@ Each published skill should meet all of the following:
 
 ## Start Here
 
+- Browse the skill index: [docs/SKILL_INDEX.md](./docs/SKILL_INDEX.md)
 - Read the repository map: [docs/REPOSITORY_MAP.md](./docs/REPOSITORY_MAP.md)
 - Read contribution rules: [CONTRIBUTING.md](./CONTRIBUTING.md)
 - Read maintenance expectations: [MAINTENANCE.md](./MAINTENANCE.md)
 - See batch planning: [docs/PUBLISHING_PLAN.md](./docs/PUBLISHING_PLAN.md)
+
+## Quick Start
+
+1. Pick a skill from [docs/SKILL_INDEX.md](./docs/SKILL_INDEX.md)
+2. Review its `SKILL.md` for inputs, assumptions, and safety notes
+3. Replace any remaining placeholders with your own environment variables
+4. Test it in a fresh Hermes session before using it in a shared workflow
 
 ## Status
 
