@@ -54,6 +54,7 @@ skills/
     SKILL.md
 
 docs/
+  BATCH_01.md
   EXAMPLES.md
   PUBLISHING_PLAN.md
   REPOSITORY_MAP.md
@@ -81,6 +82,7 @@ Each published skill should meet all of the following:
 ## Start Here
 
 - Browse the skill index: [docs/SKILL_INDEX.md](./docs/SKILL_INDEX.md)
+- See the first public batch: [docs/BATCH_01.md](./docs/BATCH_01.md)
 - See example use cases: [docs/EXAMPLES.md](./docs/EXAMPLES.md)
 - See the roadmap: [docs/ROADMAP.md](./docs/ROADMAP.md)
 - Review the security boundary: [docs/SECURITY_BOUNDARY.md](./docs/SECURITY_BOUNDARY.md)
