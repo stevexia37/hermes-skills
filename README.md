@@ -58,6 +58,7 @@ docs/
   PUBLISHING_PLAN.md
   REPOSITORY_MAP.md
   ROADMAP.md
+  SECURITY_BOUNDARY.md
   SKILL_INDEX.md
 
 README.md
@@ -82,6 +83,7 @@ Each published skill should meet all of the following:
 - Browse the skill index: [docs/SKILL_INDEX.md](./docs/SKILL_INDEX.md)
 - See example use cases: [docs/EXAMPLES.md](./docs/EXAMPLES.md)
 - See the roadmap: [docs/ROADMAP.md](./docs/ROADMAP.md)
+- Review the security boundary: [docs/SECURITY_BOUNDARY.md](./docs/SECURITY_BOUNDARY.md)
 - Read the repository map: [docs/REPOSITORY_MAP.md](./docs/REPOSITORY_MAP.md)
 - Read contribution rules: [CONTRIBUTING.md](./CONTRIBUTING.md)
 - Read maintenance expectations: [MAINTENANCE.md](./MAINTENANCE.md)
