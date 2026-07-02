@@ -39,6 +39,10 @@ It focuses on skills that are:
 - [`skills/feishu-file-transfer`](./skills/feishu-file-transfer/SKILL.md)
 - [`skills/output-persistence`](./skills/output-persistence/SKILL.md)
 
+### Social / Monitoring
+
+- [`skills/hermes-tweet`](./skills/hermes-tweet/SKILL.md)
+
 ### Trading / Research
 
 - [`skills/trading-system-v8-memory`](./skills/trading-system-v8-memory/SKILL.md)

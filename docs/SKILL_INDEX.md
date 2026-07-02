@@ -36,6 +36,14 @@ This index gives a quick browsing layer over the first public batch in `hermes-s
 - Best for: reports, summaries, artifacts, task handoff
 - Notes: public version removes local path coupling and private delivery rules
 
+## Social and Monitoring
+
+### `hermes-tweet`
+
+- Purpose: native Hermes plugin workflow for X/Twitter reads, monitoring, and reviewed actions
+- Best for: tweet context, reply analysis, user lookup, follower exports, and launch monitoring
+- Notes: requires `XQUIK_API_KEY`; action tools also require `HERMES_TWEET_ENABLE_ACTIONS=true`
+
 ## Trading System Components
 
 ### `trading-system-v8-memory`
